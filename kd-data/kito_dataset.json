@@ -1,0 +1,37 @@
+[
+  {
+    "type": "person",
+    "id": 100,
+    "name": "Agbel Eugene",
+    "description": "Attempts to lure you into a shop, and then lorem ipsum dolor sit amet iscid a dj alko inv woamc wpamc qwsaoi ewdin edin qaom.\nBeware!",
+    "location": "Ajah",
+    "related-kito-posts": [
+      "i-see-monsters",
+      "dear-straight-people",
+      "monsters-are-not-gentle"
+    ],
+    "linked-to": [200, 300],
+    "images": [
+      "image-001.gif",
+      "image-002.png",
+      "image-003.png"
+    ]
+  },
+
+  {
+    "type": "place",
+    "id": 150,
+    "name": "Quincy Lodge, Nekede",
+    "description": "Quincy Lodge is located in Owerri and known for lorem ipsum dolor sit amet iscid a dj alko inv woamc wpamc qwsaoi ewdin edin qaom. Quincy Lodge is located in Owerri and known for lorem ipsum dolor sit amet iscid a dj alko inv woamc wpamc qwsaoi ewdin edin qaom. Quincy Lodge is located in Owerri and known for lorem ipsum dolor sit amet iscid a dj alko inv woamc wpamc qwsaoi ewdin edin qaom. Quincy Lodge is located in Owerri and known for lorem ipsum dolor sit amet iscid a dj alko inv woamc wpamc qwsaoi ewdin edin qaom.",
+    "location": "Owerri",
+    "related-kito-posts": [
+      "dear-straight-people",
+      "monsters-are-not-gentle"
+    ],
+    "linked-to": [100],
+    "images": [
+      "image-002.png",
+      "image-003.png"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "type": "person",
+    "id": 100,
+    "title": "Agbel Eugene"
+  },
+
+  {
+    "type": "place",
+    "id": 150,
+    "title": "Quincy Lodge, Nekede"
+  },
+
+  {
+    "type": "person",
+    "id": 200,
+    "title": "Mario Del Rio"
+  },
+
+  {
+    "type": "person",
+    "id": 250,
+    "title": "Just Another Agbel"
+  }
+]

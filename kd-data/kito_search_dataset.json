@@ -1,25 +1,33 @@
 [
-  {
-    "type": "person",
-    "id": 100,
-    "title": "Agbel Eugene"
-  },
-
-  {
-    "type": "place",
-    "id": 150,
-    "title": "Quincy Lodge, Nekede"
-  },
-
-  {
-    "type": "person",
-    "id": 200,
-    "title": "Mario Del Rio"
-  },
-
-  {
-    "type": "person",
-    "id": 250,
-    "title": "Just Another Agbel"
-  }
+  "Agbel Eugene",
+  "Quincy Lodge, Nekede",
+  "Mario Del Rio",
+  "Just Another Agbel",
+  "Desmond",
+  "Fiozy",
+  "Kizito",
+  "Oluwafemi",
+  "Desmond",
+  "Harry Styles",
+  "A Random Cretin",
+  "Scum of the Earth",
+  "Ojo Road",
+  "Okokomaiko",
+  "Victor Ozo",
+  "Nelson",
+  "Biscuit Brain",
+  "Prince Uzochukwu",
+  "Constance Constance",
+  "Richard Bolu",
+  "Etz Edgerson Edet",
+  "Tamunopreiye",
+  "Godson Efulefu",
+  "Under Gbagada bridge",
+  "Izzo SARS",
+  "Violence Begets Violence",
+  "Lolade Brown",
+  "Wunmi Folarin",
+  "Xavier Independent",
+  "Yemi Ajakande",
+  "Zizi's Place"
 ]

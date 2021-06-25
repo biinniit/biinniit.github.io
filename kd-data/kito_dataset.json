@@ -43,7 +43,7 @@
     "location": "Owerri",
     "linked-to": [250],
     "images": [
-      "image-004.png"
+      "image-004.jpg"
     ],
     "danger": "V",
     "country-code": [234, 234],
@@ -59,9 +59,6 @@
     "description": "World Bank is known to be the premises where Hammer Moni flora lorem jiji dolor sit amet iscid a dj alko inv woamc wpamc qwsaoi ewdin edin qaom.",
     "location": "Owerri",
     "linked-to": [200],
-    "images": [
-      "image-004.png"
-    ],
     "location-url": "https://goo.gl/maps/6s9cHEEKULwK665cA"
   }
 ]

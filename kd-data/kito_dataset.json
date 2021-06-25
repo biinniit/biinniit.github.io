@@ -33,5 +33,35 @@
       "image-002.png",
       "image-003.png"
     ]
+  },
+
+  {
+    "type": "person",
+    "id": 200,
+    "name": "Hammer Moni",
+    "description": "Operates in World Bank, Umuguma area of Owerri. His name is CHIBUZOR but he goes by the name \"Hammer Moni\" on Facebook.",
+    "location": "Owerri",
+    "linked-to": [250],
+    "images": [
+      "image-004.png"
+    ],
+    "danger": "V",
+    "country-code": [234, 234],
+    "phone-number": [9078054152, 8082013055],
+    "legal-name": "Chibuzor",
+    "facebook": "Hammermoni"
+  },
+
+  {
+    "type": "place",
+    "id": 250,
+    "name": "World Bank, Umuguma",
+    "description": "World Bank is known to be the premises where Hammer Moni flora lorem jiji dolor sit amet iscid a dj alko inv woamc wpamc qwsaoi ewdin edin qaom.",
+    "location": "Owerri",
+    "linked-to": [200],
+    "images": [
+      "image-004.png"
+    ],
+    "location-url": "https://goo.gl/maps/6s9cHEEKULwK665cA"
   }
 ]

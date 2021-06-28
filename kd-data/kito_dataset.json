@@ -12,9 +12,8 @@
     ],
     "linked-to": [200, 300],
     "images": [
-      "image-001.gif",
-      "image-002.png",
-      "image-003.png"
+      "image-003.png",
+      "image-005.jpg"
     ]
   },
 
@@ -30,8 +29,8 @@
     ],
     "linked-to": [100],
     "images": [
-      "image-002.png",
-      "image-003.png"
+      "image-001.gif",
+      "image-002.png"
     ]
   },
 
@@ -60,5 +59,20 @@
     "location": "Owerri",
     "linked-to": [200],
     "location-url": "https://goo.gl/maps/6s9cHEEKULwK665cA"
+  },
+
+  {
+    "type": "person",
+    "id": 300,
+    "name": "Larry",
+    "description": "Barber at Ikotun, operates in the Ikotun/Igando area of Lagos. Name is Larry but currently goes by \"Alex William Williams Smith\" on Facebook, even though he has been known to change his Facebook name often.",
+    "location": "Ikotun/Igando",
+    "images": [
+      "image-005.jpg"
+    ],
+    "danger": "V",
+    "country-code": [234, 234],
+    "phone-number": [8147948916, 8162363768],
+    "facebook": "larryjons.larryjons"
   }
 ]

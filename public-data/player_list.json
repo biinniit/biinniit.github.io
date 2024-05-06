@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "first_name": "Lionel",
+    "last_name": "Messi",
+    "date_of_birth": "1987-06-24",
+    "nationality": "Argentina",
+    "current_league": "Regular Season",
+    "headshot_url": "https://fbref.com/req/202302030/images/headshots/d70ce98e_2022.jpg",
+    "full_photo_url": "https://media.gettyimages.com/id/1442802416/photo/argentina-portraits-fifa-world-cup-qatar-2022.jpg?s=612x612&w=gi&k=20&c=2tYhhrpWaC01qWYbk9nvbJHNNKtYPQoipyNchGXwpX0=",
+    "position": {
+      "primary": ["Forward", "Midfielder"],
+      "secondary": ["Attacking Midfielder", "Wide Midfielder"]
+    },
+    "total_goals": 744,
+    "total_assists": 201,
+    "height": 170
+  },
+  {
+    "id": 2,
+    "first_name": "Cristiano",
+    "last_name": "Ronaldo",
+    "date_of_birth": "1985-02-05",
+    "nationality": "Portugal",
+    "current_league": "Pro League",
+    "headshot_url": "https://fbref.com/req/202302030/images/headshots/dea698d9_2022.jpg",
+    "full_photo_url": "https://media.gettyimages.com/id/1443060658/photo/portugal-portraits-fifa-world-cup-qatar-2022.jpg?s=2048x2048&w=gi&k=20&c=lzAqPJR7X8EvU7GFtwCG6U00UN191EyELzy5MXxHB1c=",
+    "position": {
+      "primary": ["Forward", "Midfielder"],
+      "secondary": ["Wide Midfielder"]
+    },
+    "total_goals": 814,
+    "total_assists": 138,
+    "height": 187
+  },
+  {
+    "id": 3,
+    "first_name": "Robert",
+    "last_name": "Lewandowski",
+    "date_of_birth": "1988-08-21",
+    "nationality": "Poland",
+    "current_league": "Champions Lg",
+    "headshot_url": "https://fbref.com/req/202302030/images/headshots/8d78e732_2022.jpg",
+    "full_photo_url": "https://media.gettyimages.com/id/1442609747/photo/poland-portraits-fifa-world-cup-qatar-2022.jpg?s=2048x2048&w=gi&k=20&c=yqEegjoYgO1ePyv4TtunaBzwesRHZi5om_rreqypGBE=",
+    "position": {
+      "primary": ["Forward"]
+    },
+    "total_goals": 562,
+    "total_assists": 92,
+    "height": 185
+  },
+  {
+    "id": 4,
+    "first_name": "Ángel",
+    "last_name": "Di María",
+    "date_of_birth": "1988-02-14",
+    "nationality": "Argentina",
+    "current_league": "Europa Lg",
+    "headshot_url": "https://fbref.com/req/202302030/images/headshots/19cda00b_2022.jpg",
+    "full_photo_url": "https://media.gettyimages.com/id/1442799170/photo/argentina-portraits-fifa-world-cup-qatar-2022.jpg?s=2048x2048&w=gi&k=20&c=afICFop_I6fpBwe6HWYBbp5O7UgTGRsIUuOg-VGOkmo=",
+    "position": {
+      "primary": ["Forward", "Midfielder"],
+      "secondary": ["Attacking Midfielder", "Central Midfielder", "Wide Midfielder"]
+    },
+    "total_assists": 153,
+    "total_goals": 183,
+    "height": 180
+  },
+  {
+    "id": 5,
+    "first_name": "Karim",
+    "last_name": "Benzema",
+    "date_of_birth": "1987-12-19",
+    "nationality": "France",
+    "current_league": "Pro League",
+    "headshot_url": "https://fbref.com/req/202302030/images/headshots/70d74ece_2022.jpg",
+    "full_photo_url": "https://media.gettyimages.com/id/1442261512/photo/france-portraits-fifa-world-cup-qatar-2022.jpg?s=2048x2048&w=gi&k=20&c=ynS6mwUppi4L940lWt_4qCb2wFeyn4euC2IdhtZsa5g=",
+    "position": {
+      "primary": ["Forward"]
+    },
+    "total_goals": 427,
+    "total_assists": 105,
+    "height": 183
+  },
+  {
+    "id": 6,
+    "first_name": "Iker",
+    "last_name": "Casillas",
+    "date_of_birth": "1981-05-20",
+    "nationality": "Spain",
+    "current_league": null,
+    "headshot_url": "https://fbref.com/req/202302030/images/headshots/1ddbb0da_2022.jpg",
+    "full_photo_url": "https://media.gettyimages.com/id/152164368/photo/real-madrid-cf-team-presentation.jpg?s=2048x2048&w=gi&k=20&c=ChTP2dox4rKBoMfqDw-TnR2m6KWgUEZ6VWFXbuAlyc0=",
+    "position": {
+      "primary": ["Goalkeeper"]
+    },
+    "total_goals": 0,
+    "total_assists": 0,
+    "height": 180
+  },
+  {
+    "id": 7,
+    "first_name": "Neymar",
+    "last_name": "Santos",
+    "date_of_birth": "1992-02-05",
+    "nationality": "Brazil",
+    "current_league": "WCQ",
+    "headshot_url": "https://fbref.com/req/202302030/images/headshots/69384e5d_2022.jpg",
+    "full_photo_url": "https://media.gettyimages.com/id/1443025860/photo/brazil-portraits-fifa-world-cup-qatar-2022.jpg?s=2048x2048&w=gi&k=20&c=2fm54qAQS79VjDmt6emfHe8qp-8Eo0cNnut6i2rOgoM=",
+    "position": {
+      "primary": ["Forward", "Midfielder"],
+      "secondary": ["Attacking Midfielder", "Wide Midfielder"]
+    },
+    "total_assists": 153,
+    "total_goals": 277,
+    "height": 174
+  },
+  {
+    "id": 8,
+    "first_name": "Raúl",
+    "last_name": "González",
+    "date_of_birth": "1977-06-27",
+    "nationality": "Spain",
+    "current_league": null,
+    "headshot_url": null,
+    "full_photo_url": "https://media.gettyimages.com/id/1741610/photo/raul-of-spain.jpg?s=2048x2048&w=gi&k=20&c=LcP9ly1cmu5f7ZA2OyQpRlqsNYFzqamCFpxQ3P-ht-k=",
+    "position": {
+      "primary": ["Forward"]
+    },
+    "total_goals": 340,
+    "total_assists": 16,
+    "height": 178
+  },
+  {
+    "id": 9,
+    "first_name": "Xavi",
+    "last_name": "Hernández",
+    "date_of_birth": "1980-01-25",
+    "nationality": "Spain",
+    "current_league": null,
+    "headshot_url": "https://fbref.com/req/202302030/images/headshots/c1b4188c_2022.jpg",
+    "full_photo_url": "https://media.gettyimages.com/id/450355520/photo/spain-portraits-2014-fifa-world-cup-brazil.jpg?s=2048x2048&w=gi&k=20&c=zqwFFA67clQS-DSKo86qTX1Vmml7-h_vbg9Ox3kO0BI=",
+    "position": {
+      "primary": ["Midfielder"],
+      "secondary": ["Central Midfielder"]
+    },
+    "total_goals": 79,
+    "total_assists": 13,
+    "height": 170
+  },
+  {
+    "id": 10,
+    "first_name": "Ruud",
+    "last_name": "van Nistelrooy",
+    "date_of_birth": "1976-07-01",
+    "nationality": "Netherlands",
+    "current_league": null,
+    "headshot_url": "https://fbref.com/req/202302030/images/headshots/80a30989_2022.jpg",
+    "full_photo_url": "https://media.gettyimages.com/id/1240921/photo/portrait-of-ruud-van-nistelrooy.jpg?s=2048x2048&w=gi&k=20&c=wsYzpfpEP143pud5xNUPo3APJtl2yNTKIgNy3roao5E=",
+    "position": {
+      "primary": ["Forward"]
+    },
+    "total_goals": 239,
+    "total_assists": 14,
+    "height": 188
+  }
+]
